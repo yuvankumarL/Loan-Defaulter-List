@@ -21,3 +21,6 @@ Overall, exploratory analysis of loan defaulters can provide valuable insights i
 that contribute to loan defaults and help lenders make more informed decisions about lending in the
 future.
 
+
+#Dataset Link
+https://www.kaggle.com/code/prateek146/load-defaulter-classification/input
